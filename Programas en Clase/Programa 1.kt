@@ -1,4 +1,4 @@
-Ejercicio 1
+//Ejercicio 1
 const val a=5
 const val b=2
 const val c=3
