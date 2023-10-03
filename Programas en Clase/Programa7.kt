@@ -1,4 +1,4 @@
-//Programa 7
+//Ejercicio 7
 import java.util.*
 
 fun main() {
